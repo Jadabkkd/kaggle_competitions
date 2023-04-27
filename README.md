@@ -1,1 +1,1 @@
-# The Archive of Kaggle competition
+# Kaggle Competition archive
